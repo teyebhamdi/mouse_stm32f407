@@ -1,0 +1,15 @@
+stm32f4_discovery.c:138:10:BSP_GetVersion	1
+stm32f4_discovery.c:152:6:BSP_LED_Init	5
+stm32f4_discovery.c:179:6:BSP_LED_On	1
+stm32f4_discovery.c:193:6:BSP_LED_Off	1
+stm32f4_discovery.c:207:6:BSP_LED_Toggle	1
+stm32f4_discovery.c:230:6:BSP_PB_Init	4
+stm32f4_discovery.c:269:10:BSP_PB_GetState	1
+stm32f4_discovery.c:291:13:SPIx_Init	2
+stm32f4_discovery.c:320:16:SPIx_WriteRead	2
+stm32f4_discovery.c:337:13:SPIx_Error	1
+stm32f4_discovery.c:349:13:SPIx_MspInit	1
+stm32f4_discovery.c:378:6:ACCELERO_IO_Init	1
+stm32f4_discovery.c:403:6:ACCELERO_IO_ITConfig	1
+stm32f4_discovery.c:428:6:ACCELERO_IO_Write	3
+stm32f4_discovery.c:462:6:ACCELERO_IO_Read	3
